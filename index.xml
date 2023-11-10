@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release Documentation - 1.0</title>
+    <link>https://fantastic-fiesta-da4ab8e5.pages.github.io/</link>
+    <description>Recent content on Release Documentation - 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://fantastic-fiesta-da4ab8e5.pages.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Coverage Test</title>
+      <link>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/CodeCoverage-1a68a0b7-01ea-3ef0-7734-7bbbb7279df9.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/CodeCoverage-1a68a0b7-01ea-3ef0-7734-7bbbb7279df9.html</guid>
+      <description>Code Coverage Test    the code coverage is 0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58  &amp;lt;?</description>
+    </item>
+    
+    <item>
+      <title>Unit Test Results</title>
+      <link>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/UnitTest-9cfd0bb9-66b5-23d1-be50-4ae0a0e981c0.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/UnitTest-9cfd0bb9-66b5-23d1-be50-4ae0a0e981c0.html</guid>
+      <description>Test results for commit &amp;lsquo;52022aee0b20194a6b50f0e839e9117c3256c846&amp;rsquo; run at 0
+   Tests Failures Errors     2 0 0    Results of test suite pytest    The following test where executed in test suite pytest
+ NameExecution TimeResult test_for_get_speed0.012passed test_for_publish_to_topic0.003passed  Original Output    1  &amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;utf-8&amp;#34;?&amp;gt;&amp;lt;testsuites&amp;gt;&amp;lt;testsuite name=&amp;#34;pytest&amp;#34; errors=&amp;#34;0&amp;#34; failures=&amp;#34;0&amp;#34; skipped=&amp;#34;0&amp;#34; tests=&amp;#34;2&amp;#34; time=&amp;#34;0.298&amp;#34; timestamp=&amp;#34;2023-11-10T16:04:10.844300&amp;#34; hostname=&amp;#34;6f41790a0cd5&amp;#34;&amp;gt;&amp;lt;testcase classname=&amp;#34;test_run&amp;#34; name=&amp;#34;test_for_get_speed&amp;#34; file=&amp;#34;test_run.py&amp;#34; line=&amp;#34;27&amp;#34; time=&amp;#34;0.012&amp;#34; /&amp;gt;&amp;lt;testcase classname=&amp;#34;test_run&amp;#34; name=&amp;#34;test_for_publish_to_topic&amp;#34; file=&amp;#34;test_run.</description>
+    </item>
+    
+    <item>
+      <title>Unit Test Results</title>
+      <link>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/UnitTest-f67d5ab5-1925-67ee-9b99-07528794ce37.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/UnitTest-f67d5ab5-1925-67ee-9b99-07528794ce37.html</guid>
+      <description>Test results for commit &amp;lsquo;52022aee0b20194a6b50f0e839e9117c3256c846&amp;rsquo; run at 0
+   Tests Failures Errors     1 0 0    Results of test suite pytest    The following test where executed in test suite pytest
+ NameExecution TimeResult test_get_current_speed0.007passed  Original Output    1  &amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;utf-8&amp;#34;?&amp;gt;&amp;lt;testsuites&amp;gt;&amp;lt;testsuite name=&amp;#34;pytest&amp;#34; errors=&amp;#34;0&amp;#34; failures=&amp;#34;0&amp;#34; skipped=&amp;#34;0&amp;#34; tests=&amp;#34;1&amp;#34; time=&amp;#34;0.145&amp;#34; timestamp=&amp;#34;2023-11-10T16:10:44.471658&amp;#34; hostname=&amp;#34;fv-az673-995&amp;#34;&amp;gt;&amp;lt;testcase classname=&amp;#34;app.tests.integration.integration_test&amp;#34; name=&amp;#34;test_get_current_speed&amp;#34; file=&amp;#34;app/tests/integration/integration_test.py&amp;#34; line=&amp;#34;24&amp;#34; time=&amp;#34;0.007&amp;#34; /&amp;gt;&amp;lt;/testsuite&amp;gt;&amp;lt;/testsuites&amp;gt;   </description>
+    </item>
+    
+    <item>
+      <title>Vulnerability Scan Results</title>
+      <link>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/vulnerability-scan-results.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fantastic-fiesta-da4ab8e5.pages.github.io/reports/vulnerability-scan-results.html</guid>
+      <description>The scan was run on the container that was build using the code of the commit with the hash &amp;lsquo;52022aee0b20194a6b50f0e839e9117c3256c846&amp;rsquo; The number of vulnerabilities found was: &amp;lsquo;0&amp;rsquo;
+Original Output    1 2 3 4 5  &amp;lt;?xml version=&amp;#34;1.0&amp;#34; ?&amp;gt; &amp;lt;!-- This file is maintained by velocitas CLI, do not modify manually. Change settings in .velocitas.json --&amp;gt; &amp;lt;testsuites&amp;gt; &amp;lt;/testsuites&amp;gt;   </description>
+    </item>
+    
+  </channel>
+</rss>
